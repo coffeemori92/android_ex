@@ -5,7 +5,6 @@
     android:orientation="vertical"
      >
 
-
     <EditText
         android:id="@+id/id_text"
         android:hint="아이디"
